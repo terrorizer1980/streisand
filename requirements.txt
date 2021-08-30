@@ -24,3 +24,5 @@ linode-api4
 
 # Rackspace
 pyrax
+ansible>=2.8.15 # not directly required, pinned by Snyk to avoid a vulnerability
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
